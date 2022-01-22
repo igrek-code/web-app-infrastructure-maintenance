@@ -1,0 +1,20 @@
+{
+  "rootAPI": "/api/v1/",
+  "root": "/",
+  "port": 8081,
+  "db": {
+    "host": "localhost",
+    "database": "projet",
+    "user": "projet",
+    "password": "tejorp"
+  },
+  "errors": {
+    "wrongCred": "Wrong email or password",
+    "wrongID": "Wrong id",
+    "emailAlreadyTaken": "email already taken",
+    "noEmailValue": "no email value",
+    "noValues": "no values",
+    "sameEmail": "same email",
+    "sameName": "same name"
+  }
+}
